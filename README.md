@@ -1,3 +1,3 @@
 # sandbox
 Testområde
-Dette er en test
+Dette er en test :), en true test
